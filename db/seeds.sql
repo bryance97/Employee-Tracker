@@ -13,7 +13,7 @@ INSERT INTO role
 VALUES
     ('Sales Lead', 100000, 1),
     ('Engineer', 150000, 2),
-    ('Recruit', 125000, 3),
+    ('Acountant', 125000, 3),
     ('Lawyer', 190000, 4);
 
 INSERT INTO employee
@@ -22,4 +22,4 @@ VALUES
     ('Mike', 'Gambo', 1, NULL),
     ('Anthony', 'White', 2, 1),
     ('Amber', 'Kotz', 3, 1),
-    ('Kirk', 'Buz', 4, 1),
+    ('Kirk', 'Buz', 4, 1);
